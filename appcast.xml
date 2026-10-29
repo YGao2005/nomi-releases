@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nomi</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 28 Oct 2026 22:39:34 -0700</pubDate>
+            <sparkle:version>301</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/YGao2005/nomi-releases/releases/download/v0.1.0-301/Nomi-0.1.0-301.dmg" length="33123218" type="application/octet-stream" sparkle:edSignature="JActUCUbGkVkf5yVMuhRxvRIZXZSQjTIBSupk4D/b5cOF4XOiuAPcdMBo+yXqp0Hl/Ujg5JuFp197HZcVXbNAg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Foy1dcbq9cLyzjITbRT9Rc0wdyQVV7sakVyptDIE0cUEsAEg5nFwt+OZFuLjwSAaleTGQkS1ThDi7JPOT9i4Aw==
+length: 1049
+-->
