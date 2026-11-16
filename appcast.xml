@@ -5,14 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Nomi</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Thu, 29 Oct 2026 12:58:05 -0700</pubDate>
-            <sparkle:version>313</sparkle:version>
+            <pubDate>Sun, 15 Nov 2026 19:47:49 -0800</pubDate>
+            <sparkle:version>596</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/YGao2005/nomi-releases/releases/download/v0.1.0-313/Nomi-0.1.0-313.dmg" length="33718882" type="application/octet-stream" sparkle:edSignature="PaK/v1T2Elf6XKmOHb+PNQ2yEKiob3K1CwkGYwdcNUnHH3ZYUIwOfh+9nWWAfSdxEDVKpeGelfNU5J58xKXVDw=="></enclosure>
+            <enclosure url="https://github.com/YGao2005/nomi-releases/releases/download/v0.1.0-596/Nomi-0.1.0-596.dmg" length="55002834" type="application/octet-stream" sparkle:edSignature="IfonGlrvY8rp+Dhd8GR2hKIo8zJKJQ6lv4eeMnBq7blmHV+NDXShMwsA/3aK8ALAVDKlzUEUjhJLOm+8Ey4cBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Lx8ybiiIpyvb2LmTA+vQDYa18wMehGozto1qasWT3ZBy6gn1Su0GK/2HofNYtCiC8JtwH7Z+bYJrLeHDUgtWBg==
+edSignature: cwO4Cf+aHHES/35+9Jp31voQfbN9c6t0xKvvKJWV4tnHAXZmhrym2bYUlATFzFkVRpi/xDSGCmDi5+85he53Dg==
 length: 1049
 -->
